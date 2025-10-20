@@ -7,5 +7,5 @@
 它说明了系统的重要目录在哪。
 
 
-![8a06dfe69b88093e81a97ec617292774](https://github.com/user-attachments/assets/39ad0a9e-96b3-4905-a1c2-049389a3b7d6)
-![Uploading 80db01c934558dd3b25bb8d9a2548fac.jpg…]()
+![80db01c934558dd3b25bb8d9a2548fac](https://github.com/user-attachments/assets/92efc7ce-a08d-4c05-ab79-ba821a7c40b2)
+![8a06dfe69b88093e81a97ec617292774](https://github.com/user-attachments/assets/5018c911-71ca-42f5-b3fc-ba6bb3fae3a6)
